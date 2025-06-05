@@ -1,0 +1,6 @@
+@echo off
+cd C:\Users\Carles\Documents\Git\PACORUS-S
+echo Haciendo pull desde GitHub (github)...
+git pull github main
+echo Haciendo push hacia Gitea (origin)...
+git push origin main
